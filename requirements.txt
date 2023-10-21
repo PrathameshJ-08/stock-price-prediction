@@ -21,7 +21,7 @@ contourpy==1.0.7
 convertdate==2.4.0
 cryptography==40.0.1
 cycler==0.11.0
-Cython==3.0.4
+Cython==0.29.34
 dash==2.9.3
 dash-core-components==2.0.0
 dash-html-components==2.0.0
