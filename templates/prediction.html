@@ -32,6 +32,9 @@
 			/* background: #60a3bc !important; */
 			background: #293038		!important;
 		}
+		.div-container{
+			margin: 50px;
+		}
 		.user_card {
 			
 			height: 200px;
@@ -81,9 +84,16 @@
 		</div>
 
 	</div>
-	{{ plot_html|safe }}
-	{{ plot_html2|safe }}
+	<div>
+		{{ plot_html|safe }}
+	</div>
+	<div class="div-container">
+		{{ plot_html2|safe }}
 
+	</div>
+
+	
+	
 
 
 
