@@ -88,12 +88,12 @@ close-price-predict/
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <div style="flex: 1;">
-    <img src="snapshots/1.Landing.png" alt="Landing Page" style="width:  610px">
-    <img src="snapshots/3.output.png" alt="Predict prices" style="width: 610px">
+    <img src="snapshots/1.Landing.png" alt="Landing Page" style="width:  400px">
+    <img src="snapshots/3.output.png" alt="Predict prices" style="width: 400px">
   </div>
   <div style="flex: 1;">
-    <img src="snapshots/2.current-price.png" alt="Check current prices" style="width: 610px">
-        <img src="snapshots/4.graphs.png" alt="View Graphs" style="width: 600px">
+    <img src="snapshots/2.current-price.png" alt="Check current prices" style="width: 400px">
+        <img src="snapshots/4.graphs.png" alt="View Graphs" style="width: 400px">
   </div>
 </div>
 
